@@ -5,7 +5,7 @@
 <h2>🔭 What I'm Currently Working On:</h2>
 <ul>
   <li><strong>Portfolio Website</strong>: I am currently in the process of building a new portfolio webiste... coming soon!</li>
-  <li><strong>My homework </strong>: At this moment, there is a 50.99% chance I am wokring on one of my assignments.</li>
+  <li><strong>My homework </strong>: At this moment, there is a 50.99% chance I am working on one of my assignments.</li>
 </ul>
 
 <h2>🌱 What I'm Learning:</h2>
