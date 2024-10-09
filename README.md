@@ -16,7 +16,7 @@
 
 <h2>⛹️‍♂️ Hobbies:</h2>
 <ul>
-  <li>Sports: Basketball, Soccer, Tennis, Pickleball/li>
+  <li>Sports: Basketball, Soccer, Tennis, Pickleball </li>
   <li>Reading</li>
   <li>Cooking</li>
 </ul>
