@@ -18,7 +18,7 @@
 <ul>
   <li>Sports: Basketball, Soccer, Tennis, Pickleball, Swimming </li>
   <li>Reading: current book - Thinking Fast and Slow by Daniel Kahneman</li>
-  <li>Cooking</li>
+  <li>Cooking and Baking</li>
 </ul>
 
 <h2>📫 How to Reach Me:</h2>
