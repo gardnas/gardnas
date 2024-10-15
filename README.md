@@ -24,7 +24,7 @@
 <h2>📫 How to Reach Me:</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/spencergard/">LinkedIn</a></li>
-  <li>Portfolio: <a href="[Your Portfolio Website]">Spencer's website here!</a></li>
+  <li>Portfolio: <a href="https://gardnas.github.io/sweb2.0/">Spencer's website here!</a></li>
   <li>Shoot me an email: <a href="mailto:sdgard863@gmail.com">Send me a message!</a></li>
 </ul>
 
