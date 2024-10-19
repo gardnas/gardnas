@@ -8,9 +8,9 @@
   <li><strong>Other</strong>: At this moment, there is a 50.99% chance I am working on one of my assignments.</li>
 </ul>
 
-<h2>📈 What I'm Learning:</h2>
+<h2>📈 What I'm learning:</h2>
 <ul>
-  <li>I've been baking recently, so leanrign new techniques and recipes!</li>
+  <li>I've been baking recently, so learnign new techniques and recipes!</li>
   <li>New skills in cloud and backend technologies like AWS</li>
 </ul>
 
@@ -21,7 +21,7 @@
   <li>Cooking and Baking</li>
 </ul>
 
-<h2>📫 How to Reach Me:</h2>
+<h2>📫 Where to reach me:</h2>
 <ul>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/spencergard/">LinkedIn</a></li>
   <li>Portfolio: <a href="https://gardnas.github.io/sweb2.0/">Spencer's website here!</a></li>
