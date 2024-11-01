@@ -10,8 +10,8 @@
 
 <h2>📈 What I'm learning:</h2>
 <ul>
-  <li>I've been cookng more recently, so I'm always looking for new dishes to make, or refining techniques!</li>
-  <li>New skills in cloud and backend technologies such as AWS</li>
+  <li>I've been cooking more recently so I'm always looking for new dishes to make or refining techniques!</li>
+  <li>SwiftUI and Swift!</li>
 </ul>
 
 <h2>🏄‍♂️ Hobbies:</h2>
