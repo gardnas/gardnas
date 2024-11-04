@@ -5,7 +5,7 @@
 <h2>🌱 What I'm Currently Working On:</h2>
 <ul>
   <li><strong>Apple OS Apps</strong>: I am currently working on learning and building MacOS / IOS apps!</li>
-  <li><strong>Game Development</strong>: I am also currently on working on developing a game! More details in the future...</li>
+  <li><strong>Game Development</strong>: I am currently on working on developing a game! More details to come...</li>
 </ul>
 
 <h2>📈 What I'm learning:</h2>
