@@ -4,14 +4,14 @@
 
 <h2>🌱 What I'm Currently Working On:</h2>
 <ul>
-  <li><strong>Apple OS Apps</strong>: I am currently working on learning and building MacOS / IOS apps!</li>
-  <li><strong>Game Development</strong>: I am currently on working on developing a game! More details to come...</li>
+  <li><strong>ML/AI</strong>: I am currently learning about working / training ML models for a better future!</li>
+  <li><strong>App Development</strong>: In my current role developing the Eat Together App.</li>
 </ul>
 
 <h2>📈 What I'm learning:</h2>
 <ul>
   <li>I've been cooking more recently so I'm always looking for new dishes to make or refining techniques!</li>
-  <li>SwiftUI and Swift!</li>
+  <li>AI and ML!</li>
 </ul>
 
 <h2>🏄‍♂️ Hobbies:</h2>
