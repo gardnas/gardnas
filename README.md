@@ -1,23 +1,25 @@
 <h1>Hi there, I'm Spencer! 👋</h1>
 
-<p>Hello! I'm <strong>Spencer</strong>, a current <strong>Informatics student</strong> at the <em>University of Washington Seattle</em> with focus in software development and human computer interaction.</p>
+<p>Hello! I'm <strong>Spencer</strong>, a current <strong>Informatics student</strong> at the <em>University of Washington Seattle</em> with focus in software development and human computer interaction. I am also doing a minor in Data Science.</p>
 
 <h2>🌱 What I'm Currently Working On:</h2>
 <ul>
-  <li><strong>ML/AI</strong>: I am currently learning about working / training ML models for a better future!</li>
   <li><strong>App Development</strong>: In my current role developing the Eat Together App.</li>
+  <li><strong>LLMs</strong>: I am currently learning about using LLMs!</li>
+  <li><strong>Tutoring</strong>I am currently tutoring various programming classes within the UW iSchool</li>
 </ul>
 
 <h2>📈 What I'm learning:</h2>
 <ul>
-  <li>I've been cooking more recently so I'm always looking for new dishes to make or refining techniques!</li>
-  <li>AI and ML!</li>
+  <li>I've been cooking lots and learning many new dishes and techniques!</li>
+  <li>Backend / Server Side!</li>
+  <li>LLMs</li>
 </ul>
 
 <h2>🏄‍♂️ Hobbies:</h2>
 <ul>
-  <li>Reading: current book - Thinking Fast and Slow by Daniel Kahneman</li>
-  <li>Sports: Basketball, Soccer, Tennis, Swimming, Surfing (when I can!) </li>
+  <li>Reading: current book - Designing Your Life by Bill Burnett and Dave Evans</li>
+  <li>Sports: Basketball, Soccer, Tennis, and Surfing (when I can!) </li>
   <li>Cooking!</li>
 </ul>
 
