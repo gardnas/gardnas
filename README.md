@@ -6,12 +6,10 @@
 <ul>
   <li><strong>App Development</strong>: In my current role developing the Eat Together App.</li>
   <li><strong>LLMs</strong>: I am currently learning about using LLMs!</li>
-  <li><strong>Tutoring</strong>I am currently tutoring various programming classes within the UW iSchool</li>
 </ul>
 
 <h2>📈 What I'm learning:</h2>
 <ul>
-  <li>I've been cooking lots and learning many new dishes and techniques!</li>
   <li>Backend / Server Side!</li>
   <li>LLMs</li>
 </ul>
@@ -20,7 +18,6 @@
 <ul>
   <li>Reading: current book - Designing Your Life by Bill Burnett and Dave Evans</li>
   <li>Sports: Basketball, Soccer, Tennis, and Surfing (when I can!) </li>
-  <li>Cooking!</li>
 </ul>
 
 <h2>📫 Where to reach me:</h2>
@@ -30,7 +27,7 @@
   <li>Shoot me an email: <a href="mailto:sdgard863@gmail.com">Send me a message!</a></li>
 </ul>
 
-<p>Thanks for stopping by! Feel free to connect and say hello! 😁</p>
+<p>Thanks for stopping by! 😁</p>
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardnas&layout=compact"/> -->
