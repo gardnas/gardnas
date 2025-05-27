@@ -5,13 +5,13 @@
 <h2>🌱 What I'm Currently Working On:</h2>
 <ul>
   <li><strong>App Development</strong>: In my current role developing the Eat Together App.</li>
-  <li><strong>LLMs</strong>: I am currently learning about using LLMs!</li>
+<!--   <li><strong>LLMs</strong>: I am currently learning about using LLMs!</li> -->
 </ul>
 
 <h2>📈 What I'm learning:</h2>
 <ul>
   <li>Backend / Server Side!</li>
-  <li>LLMs</li>
+<!--   <li>LLMs</li> -->
 </ul>
 
 <h2>🏄‍♂️ Hobbies:</h2>
