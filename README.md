@@ -30,4 +30,4 @@
 <p>Thanks for stopping by! 😁</p>
 
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardnas&layout=compact"/> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardnas&layout=compact"/>
