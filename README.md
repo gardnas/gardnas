@@ -5,7 +5,7 @@
 <h2>🌱 What I'm Currently Working On:</h2>
 <ul>
   <li><strong>App Development</strong>: In my current role developing the Eat Together App.</li>
-  <li><strong>Server Side</strong>: I am currently learning backend development.</li>
+<!--   <li><strong>Server Side</strong>: I am currently learning backend development.</li> -->
 <!--   <li><strong>LLMs</strong>: I am currently learning about using LLMs!</li> -->
 </ul>
 
