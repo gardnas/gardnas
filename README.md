@@ -1,6 +1,6 @@
 <h1>Hi! I'm Spencer 👋</h1>
 
-<p>Hello! I'm <strong>Spencer</strong>, I graduated from the University of Washington studying Informatics with a minor in data science. Currently, I'm working at Color as a SWE in the bay area.</p>
+I graduated from the University of Washington studying Informatics with a minor in data science. Currently, I'm working at Color as a SWE in the bay area.</p>
 
 
 <h2>📫 Where to reach me:</h2>
@@ -9,7 +9,7 @@
   <li>Portfolio: <a href="https://gardnas.github.io/sweb2.0/">Spencer's website here!</a></li>
 </ul>
 
-<p>Thanks for stopping by! 😁</p>
+<p>Thanks for stopping by!</p>
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gardnas&layout=compact"/> -->
