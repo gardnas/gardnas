@@ -1,6 +1,6 @@
 <h1>Hi! I'm Spencer 👋</h1>
 
-<p>Hello! I'm <strong>Spencer</strong>, a former <strong>Informatics student</strong> at the <em>University of Washington Seattle</em> with focus in software development and human computer interaction. I am also doing a minor in Data Science. Currently, I'm working at Color as a SWE in the bay area.</p>
+<p>Hello! I'm <strong>Spencer</strong>, I graduated from the University of Washington studying Informatics with a minor in data science. Currently, I'm working at Color as a SWE in the bay area.</p>
 
 
 <h2>📫 Where to reach me:</h2>
