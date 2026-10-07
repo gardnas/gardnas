@@ -1,6 +1,6 @@
 <h1>Hi! I'm Spencer 👋</h1>
 
-I graduated from the University of Washington studying Informatics with a minor in data science. Currently, I'm working at Color as a SWE in the bay area.</p>
+I graduated from the University of Washington studying Informatics with a minor in data science. Currently, I'm working at Color as a software engineer in the bay area.</p>
 
 
 <h2>📫 Where to reach me:</h2>
